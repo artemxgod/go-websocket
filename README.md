@@ -57,3 +57,7 @@ conn.SetPongHandler(func(string) error {
 
 ## Conclusion
 - Websocket in go has a lot of advantages and is a good choice for building real-time applications
+
+> **NOTE** this is more of a theory note about what is WebSocket, when to use it and one of ways it is intoduced in go. While building a real project make sure to check which tools are more suitable for your needs and stack. See ya
+
+> **P.S.** i usually try to make examples as practicle as possible but in this case article that i read was not great imho so i dont even bother adding a source and added a note about it
